@@ -9,5 +9,6 @@ public class CacheConfig {
 
     public static final String AUTHORS_CACHE = "AUTHORS_CACHE";
     public static final String STAFF_CACHE = "STAFF_CACHE";
+    public static final String DUMMY_CACHE = "DUMMY_CACHE";
 
 }
