@@ -1,7 +1,5 @@
 javascript:
-  - any: ['frontend/**/*']
-    all: ['!frontend/**/*']
+  - all: ['frontend/**/*']
 
 java:
-  - any: ['src/**/*']
-    all: ['!src/**/*']
+  - all: ['src/**/*']
