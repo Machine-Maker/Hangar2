@@ -1,0 +1,7 @@
+javascript:
+  - any: ['frontend/**/*']
+    all: ['!frontend/**/*']
+
+java:
+  - any: ['src/**/*']
+    all: ['!src/**/*']
