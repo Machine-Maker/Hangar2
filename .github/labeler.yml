@@ -3,3 +3,6 @@ javascript:
 
 java:
   - all: ['src/**/*']
+
+both:
+  - any: ['src/**/*', 'frontend/**/*']
